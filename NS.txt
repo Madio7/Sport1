@@ -1,3 +1,6 @@
 Hello Dear Sir/ Madam
 this is to inform you that our next meeting is put off to next friday by 12:00 pm
 Enjoy the rest of your day!
+Thanks God and our my prof Youba, I can create table in Aracle, and also insert Values in my Tables.
+furthermore, I have master many command about Oracle database.
+for instance, We use: SQL> drop table Kitchen; to delete a table called "Kitchen". 
